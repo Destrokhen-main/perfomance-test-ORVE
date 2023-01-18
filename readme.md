@@ -2,6 +2,8 @@
 
 The test is a simulation of 100 asynchronous requests
 
+*Try running 10000)*
+
 ### start
 ```
 npm i
