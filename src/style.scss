@@ -1,0 +1,30 @@
+@import url("./assets/font/font.scss");
+
+* {
+  box-sizing: border-box;
+  font-family: "font";
+}
+
+.btn {
+  width: 100%;
+  font-size: 20px;
+}
+
+#app {
+  margin-top: 20px;
+}
+
+.body-label {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.btn-label {
+  width: 100px;
+  height: 100px;
+  border: none;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
